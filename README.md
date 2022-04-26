@@ -1,4 +1,7 @@
-## Olá, eu sou a Michelli 🤞
+## Hello, I'm Michelli 🤞
+
+📕 Student C# - Generation Brasil
+📙 Student Analysis and Systems Development - University Cruzeiro do Sul
 
 <div align="center">
   <a href="https://github.com/Mimiocordeiro">
