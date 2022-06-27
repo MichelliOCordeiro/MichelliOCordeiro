@@ -1,12 +1,12 @@
 ## Hello, I'm Michelli 🤞
 
-📕 Student C# - Generation Brasil
+📕 C# - Generation Brasil
 📙 Student Analysis and Systems Development - University Cruzeiro do Sul
 
 <div align="center">
   <a href="https://github.com/MichelliOCordeiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mimiocordeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mimiocordeiro&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MichelliOCordeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelliOCordeiro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   <div style="display: inline_block"><br>
