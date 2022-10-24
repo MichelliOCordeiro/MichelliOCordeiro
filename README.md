@@ -1,7 +1,6 @@
 ## Hello, I'm Michelli 🤞
 
-📕 C# - Generation Brasil
-📙 Student Analysis and Systems Development - University Cruzeiro do Sul
+📕 Desenvolvedora C# 
 
 <div align="center">
   <a href="https://github.com/MichelliOCordeiro">
